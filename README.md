@@ -9,14 +9,14 @@
 
 Project made for the Rocketnews challenge from Rocketseat,.
 
-[🔗 Clique aqui para acessar](https://andremayert.github.io/RocketNews/)
+[🔗 Click here to visit](https://andremayert.github.io/RocketNews/)
 
-## 🛠 Tecnologias
+## 🛠 Tech
 
 - HTML
 - CSS
 - Git e Github
 
-## 💛 Contato
+## 💛 Contact
 
 andremayerusa@gmail.com
